@@ -10,7 +10,7 @@ Hasil dari proyek ini bisa membantu pemerintah daerah, sekolah, atau lembaga lai
 
 ## 📈 Link Raw Data
 
-Data yang kami gunakan bisa dilihat di sini: [Indonesian Provincial Welfare Data from BPS](https://www.kaggle.com/datasets/leonss0711/indonesian-provincial-welfare-data-from-bps)
+Data yang digunakan bisa dilihat di sini: [Indonesian Provincial Welfare Data from BPS](https://www.kaggle.com/datasets/leonss0711/indonesian-provincial-welfare-data-from-bps)
 
 ## 🧠 Wawasan & Temuan (Insights & Findings)
 
