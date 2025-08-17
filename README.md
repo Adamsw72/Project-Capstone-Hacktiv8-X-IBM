@@ -1,4 +1,4 @@
-# Project-Capstone-Hacktiv8-X-IBM
+# Project Capstone Hacktiv8 X IBM
 
 ## 🛠️ Project Overview
 
