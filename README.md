@@ -30,11 +30,11 @@ Masalah Kesenjangan: Di provinsi-provinsi yang jumlah orang miskinnya tinggi (se
 Kesejahteraan Secara Keseluruhan (Overall Wellbeing)
 
 Semuanya Terhubung: Data menunjukkan bahwa semua masalah kesejahteraan itu saling berkaitan – mulai dari kejahatan, pengangguran, pendidikan, sampai kemiskinan. Jadi, kalau mau memperbaiki keadaan, kita harus melihat semuanya secara bersamaan.
-Bagaimana AI Membantu (How AI Helped - Replacing "Penjelasan Dukungan AI")
 
-Dalam proyek ini, kami menggunakan program komputer pintar (AI) untuk membantu memeriksa hasil analisis kami. Program ini bertugas membandingkan kesimpulan yang kami dapat dari data dengan hasil yang diberikan oleh program AI itu sendiri. Dengan begitu:
+## ֎🇦🇮 Bagaimana AI Membantu
 
-## ֎🇦🇮 Penggunaan AI
+Proyek ini menggunakan program komputer pintar (AI) untuk membantu memeriksa hasil analisis. Program ini bertugas membandingkan kesimpulan yang  didapat dari data dengan hasil yang diberikan oleh program AI itu sendiri. Dengan begitu:
+
 Memastikan Akurat: Kami bisa tahu apakah hasil yang kami dapat sama dengan hasil yang diberikan oleh program AI.
 Memvalidasi Temuan: Kami memastikan bahwa pola dan tren yang kami temukan juga bisa dilihat oleh program AI, sehingga hasilnya lebih meyakinkan.
 Melihat Seberapa Cepat: Kami juga mencoba melihat seberapa cepat program AI bisa memberikan informasi dibandingkan dengan cara kami menganalisis data secara manual.
