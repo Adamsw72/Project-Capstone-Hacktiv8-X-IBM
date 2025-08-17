@@ -29,8 +29,6 @@ Hubungan dengan Kemampuan Membaca: Provinsi yang banyak orangnya bisa membaca (s
 Masalah Kesenjangan: Di provinsi-provinsi yang jumlah orang miskinnya tinggi (seperti Maluku dan Papua), seringkali fasilitas perpustakaannya kurang memadai, dan layanannya tidak merata. Ini bisa membuat masalah sosial dan ekonomi semakin sulit diatasi.
 Kesejahteraan Secara Keseluruhan (Overall Wellbeing)
 
-Semuanya Terhubung: Data menunjukkan bahwa semua masalah kesejahteraan itu saling berkaitan – mulai dari kejahatan, pengangguran, pendidikan, sampai kemiskinan. Jadi, kalau mau memperbaiki keadaan, kita harus melihat semuanya secara bersamaan.
-
 ## ֎🇦🇮 Bagaimana AI Membantu
 
 Proyek ini menggunakan program komputer pintar (AI) untuk membantu memeriksa hasil analisis. Program ini bertugas membandingkan kesimpulan yang  didapat dari data dengan hasil yang diberikan oleh program AI itu sendiri. Dengan begitu:
