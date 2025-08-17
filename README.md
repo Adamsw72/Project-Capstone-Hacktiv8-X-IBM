@@ -1,5 +1,4 @@
-# Analisis Data Kesejahteraan Provinsi Indonesia dengan Validasi Kecerdasan Buatan<img width="2747" height="140" alt="image" src="https://github.com/user-attachments/assets/03e6278d-2d7d-476c-a8c9-9bc7c04a4b2d" />
-
+# Analisis Data Kesejahteraan Provinsi Indonesia dengan Validasi Kecerdasan Buatan
 
 ## 🛠️ Project Overview
 
