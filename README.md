@@ -14,7 +14,7 @@ Data yang kami gunakan bisa dilihat di sini: [Indonesian Provincial Welfare Data
 
 ## 🧠 Wawasan & Temuan (Insights & Findings)
 
-Setelah melihat data tentang kesejahteraan di seluruh Indonesia, ada beberapa hal penting yang kami temukan:
+Setelah melihat data tentang kesejahteraan di seluruh Indonesia, ada beberapa hal penting yang ditemukan:
 
 Kejahatan (Crime)
 
