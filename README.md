@@ -4,7 +4,7 @@
 
 Proyek ini mencoba memahami bagaimana kondisi kesejahteraan di setiap provinsi di Indonesia. Kami melihat data tentang beberapa hal penting: tingkat kejahatan, angka pengangguran, fasilitas perpustakaan, dan jumlah orang miskin. Tujuannya adalah mencari tahu tren dan hubungan antara semua hal itu.
 
-Yang membuat proyek ini sedikit berbeda adalah penggunaan bantuan dari program Kecerdasan Buatan (AI). Setiap kesimpulan yang kami dapatkan setelah melihat data secara langsung, kami coba cocokkan lagi dengan hasil yang diberikan oleh program AI ini. Dengan membandingkan keduanya, kami berharap bisa mendapatkan hasil yang lebih akurat dan cepat, serta menunjukkan bagaimana manusia dan teknologi bisa bekerja sama dengan baik.
+Yang membuat proyek ini sedikit berbeda adalah penggunaan bantuan dari program Kecerdasan Buatan (AI). Setiap kesimpulan yang  didapatkan setelah melihat data secara langsung, akan dicocokkan lagi dengan hasil yang diberikan oleh program AI ini. Dengan membandingkan keduanya, project ini berharap bisa mendapatkan hasil yang lebih akurat dan cepat, serta menunjukkan bagaimana manusia dan teknologi bisa bekerja sama dengan baik.
 
 Hasil dari proyek ini bisa membantu pemerintah daerah, sekolah, atau lembaga lain untuk memahami masalah kesejahteraan masyarakat di setiap provinsi, sehingga bisa membuat kebijakan yang lebih tepat sasaran.
 
